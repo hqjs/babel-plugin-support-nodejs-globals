@@ -1,0 +1,33 @@
+{
+  "name": "@hqjs/babel-plugin-support-nodejs-globals",
+  "version": "0.0.1",
+  "description": "Support nodejs globals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "hq",
+    "nodejs",
+    "globals"
+  ],
+  "homepage": "https://hqjs.org",
+  "author": "hqjs <hqjsorg@gmail.com>",
+  "engines": {
+    "npm": ">=6",
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqjs/babel-plugin-support-nodejs-globals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hqjs/babel-plugin-support-nodejs-globals/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
