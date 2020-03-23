@@ -1,6 +1,6 @@
 {
   "name": "@hqjs/babel-plugin-support-nodejs-globals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Support nodejs globals",
   "main": "index.js",
   "scripts": {
